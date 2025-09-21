@@ -1,0 +1,3 @@
+Lionel Messi,Inter Miami,10,7
+Cristiano Ronaldo,Al Nassr,12,5
+Kylian Mbappe,PSG,15,4
